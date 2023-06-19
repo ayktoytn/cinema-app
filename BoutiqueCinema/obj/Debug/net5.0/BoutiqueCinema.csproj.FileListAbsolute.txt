@@ -1,0 +1,16 @@
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\BoutiqueCinema.csproj.AssemblyReference.cache
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\BoutiqueCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\BoutiqueCinema.AssemblyInfoInputs.cache
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\BoutiqueCinema.AssemblyInfo.cs
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\BoutiqueCinema.csproj.CoreCompileInputs.cache
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\bin\Debug\net5.0\BoutiqueCinema.exe
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\bin\Debug\net5.0\BoutiqueCinema.deps.json
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\bin\Debug\net5.0\BoutiqueCinema.runtimeconfig.json
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\bin\Debug\net5.0\BoutiqueCinema.runtimeconfig.dev.json
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\bin\Debug\net5.0\BoutiqueCinema.dll
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\bin\Debug\net5.0\BoutiqueCinema.pdb
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\BoutiqueCinema.dll
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\refint\BoutiqueCinema.dll
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\BoutiqueCinema.pdb
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\BoutiqueCinema.genruntimeconfig.cache
+C:\Users\AYKUT\Desktop\Siliconmade ders notları\CS_Projects\GithubProjeler\BoutiqueCinema\BoutiqueCinema\obj\Debug\net5.0\ref\BoutiqueCinema.dll
